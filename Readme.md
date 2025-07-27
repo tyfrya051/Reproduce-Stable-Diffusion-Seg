@@ -32,7 +32,7 @@ There are 492 images in the training set, 60 images in the validation set, and 6
 
 There is a slight gap between the results of the reproduction and the results of the paper：
 
-![Snipaste_2025-07-24_22-27-02](C:\Users\tyf\Desktop\Snipaste_2025-07-24_22-27-02.png)
+<img width="422" height="236" alt="Snipaste_2025-07-24_22-27-02" src="https://github.com/user-attachments/assets/e4855003-36ca-45b1-9f37-10ef04a0d5c1" />
 
 But it is very close to the issue result.
 
@@ -40,13 +40,13 @@ issue：https://github.com/lin-tianyu/Stable-Diffusion-Seg/issues/32
 
 ##### Training process monitoring（Tensorboard）
 
-![](C:\Users\tyf\Desktop\cvc\Snipaste_2025-07-26_18-00-22.png)
+<img width="766" height="334" alt="Snipaste_2025-07-26_18-00-22" src="https://github.com/user-attachments/assets/bd720153-570f-477d-981e-0d98f88a801e" />
 
-![Snipaste_2025-07-26_18-01-02](C:\Users\tyf\Desktop\cvc\Snipaste_2025-07-26_18-01-02.png)
+<img width="754" height="332" alt="Snipaste_2025-07-26_18-01-02" src="https://github.com/user-attachments/assets/6d98d7ab-92b6-4583-96d4-68168b7dd8eb" />
 
-![Snipaste_2025-07-26_18-01-29](C:\Users\tyf\Desktop\cvc\Snipaste_2025-07-26_18-01-29.png)
+<img width="754" height="333" alt="Snipaste_2025-07-26_18-01-29" src="https://github.com/user-attachments/assets/3750511f-5b01-4ee4-92e9-694d7b40a5eb" />
 
-![Snipaste_2025-07-26_18-01-55](C:\Users\tyf\Desktop\cvc\Snipaste_2025-07-26_18-01-55.png)
+<img width="749" height="333" alt="Snipaste_2025-07-26_18-01-55" src="https://github.com/user-attachments/assets/559c2b8f-45c6-40c7-ae18-6f3d445c8fc3" />
 
 #### BTCV
 
@@ -65,14 +65,14 @@ test_vol: Volume data for testing phase (.nii.gz)
 
 The reproduction results are very close to the paper results：
 
-![Snipaste_2025-07-24_22-27-02](C:\Users\tyf\Desktop\Snipaste_2025-07-24_22-27-02.png)
+<img width="422" height="236" alt="Snipaste_2025-07-24_22-27-02" src="https://github.com/user-attachments/assets/890fcd89-2bf9-41ef-ab04-c30df677a137" />
 
 ##### Training process monitoring（Tensorboard）
 
-![](C:\Users\tyf\Desktop\BTCV\Snipaste_2025-07-26_18-06-11.png)
+<img width="749" height="337" alt="Snipaste_2025-07-26_18-06-11" src="https://github.com/user-attachments/assets/2cde4aa0-2f3c-46bd-9087-9297f4d6c4f0" />
 
-![Snipaste_2025-07-26_18-06-51](C:\Users\tyf\Desktop\BTCV\Snipaste_2025-07-26_18-06-51.png)
+<img width="753" height="336" alt="Snipaste_2025-07-26_18-06-51" src="https://github.com/user-attachments/assets/50e55ae1-467c-4cbb-a741-ae3c1ed71b86" />
 
-![Snipaste_2025-07-26_18-07-20](C:\Users\tyf\Desktop\BTCV\Snipaste_2025-07-26_18-07-20.png)
+<img width="752" height="333" alt="Snipaste_2025-07-26_18-07-20" src="https://github.com/user-attachments/assets/8fd9489f-786c-4bdb-a4c7-20f525b265e0" />
 
-![Snipaste_2025-07-26_18-08-06](C:\Users\tyf\Desktop\BTCV\Snipaste_2025-07-26_18-08-06.png)
+<img width="755" height="333" alt="Snipaste_2025-07-26_18-08-06" src="https://github.com/user-attachments/assets/14fecb23-872a-44bf-99d0-137211bcd67b" />
