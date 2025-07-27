@@ -27,7 +27,9 @@ The best model was obtained at epoch=829, step=101999.
 There are 492 images in the training set, 60 images in the validation set, and 62 images in the test set.
 
 [Dataset]: CVC with 2 classes，Test Results：
+
 [Mean Dice][cls 1]: 0.8402074328258003
+
 [Mean  IoU][cls 1]: 0.7526817825120945
 
 There is a slight gap between the results of the reproduction and the results of the paper：
@@ -61,6 +63,7 @@ test_vol: Volume data for testing phase (.nii.gz)
 [Dataset]: Synapse with 2 classes, in test_vol mode，The test set consists of 12 volume files，Test Results：
 
 [Mean Dice][cls 1]: 0.9216991539533574
+
 [Mean  IoU][cls 1]: 0.85579289234439
 
 The reproduction results are very close to the paper results：
